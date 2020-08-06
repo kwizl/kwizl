@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there. My name is Martin Njoroge. Currently as student and mentor at Microverse Program. 👋
 
-<!--
-**kwizl/kwizl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my project [Bookcraze](https://secure-brook-97667.herokuapp.com)
+- 🌱 I’m currently learning React and Rails
+- 👯 I’m currently looking for job opportunities
 
-Here are some ideas to get you started:
+**Languages and Tools:**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
+# Contacts
+[twitter]: https://twitter.com/NjoroKaris
+[linkedin]: https://www.linkedin.com/in/martin-kariuki-njoroge/
+[hackernoon]: https://hackernoon.com/u/maritn
