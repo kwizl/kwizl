@@ -1,5 +1,5 @@
 # Hi there. 
-### My name is Martin Njoroge. Currently as student and mentor at Microverse Program. 👋
+### My name is Martin Njoroge. Currently a student and mentor at Microverse Program. 👋
 
 - 🔭 I’m currently working on my project [Bookcraze](https://secure-brook-97667.herokuapp.com)
 - 🌱 I’m currently learning React and Rails
