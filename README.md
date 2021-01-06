@@ -1,7 +1,10 @@
 # Hi there. 
 ### My name is Martin Njoroge. Currently a student and mentor at Microverse Program. 👋
 
-- 🔭 I’m currently working on my project [Bookcraze](https://secure-brook-97667.herokuapp.com)
+I am a technology lover with a passion for coding and learning the latest technologies in software development. I attended the Microverse Full-Stack Software Development program, where I learned several web development technologies, algorithms and data structures, and remote collaboration through pair-programming down to the required soft skills for the job. I am currently using React and Rails as a full stack developer.
+
+I have engaged in multiple projects from game development using Unity Engine while pursuing my Degree in BS.IT in University to web development, the latter being my focus. I have done projects in ASP.NET Core and Xamarin for cross-platform mobile applications. I have also published articles on hacker noon.
+
 - 🌱 I’m currently learning React and Rails
 - 👯 I’m currently looking for job opportunities
 
