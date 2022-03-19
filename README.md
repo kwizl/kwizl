@@ -1,5 +1,5 @@
 # Hi there. 
-### My name is Martin Njoroge. Fomrerly a student and mentor at Microverse Program and currently working as a Software Engineer for Innova Limited, a fintech Company. 👋
+### My name is Martin Njoroge. Formerly a student and mentor at Microverse Program and currently working as a Software Engineer for Innova Limited, a fintech Company. 👋
 
 I am a technology lover with a passion for coding and learning the latest technologies in software development. I attended the Microverse Full-Stack Software Development program, where I learned several web development technologies, algorithms and data structures, and remote collaboration through pair-programming down to the required soft skills for the job. I am currently using React and Rails as a full stack developer.
 
