@@ -5,7 +5,7 @@ I am a technology lover with a passion for coding and learning the latest techno
 
 I have engaged in multiple projects from game development using Unity Engine while pursuing my Degree in BS.IT in University to web development, the latter being my focus. I have done projects in ASP.NET Core and Xamarin for cross-platform mobile applications. I have also published articles on hacker noon.
 
-- 🌱 I’m currently working for a fintech Company as a Software Engineer
+- 🌱 I’m currently working for a Fintech Company as a Software Engineer
 
 **Languages and Tools:**  
 
